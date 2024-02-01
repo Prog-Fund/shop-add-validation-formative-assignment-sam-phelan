@@ -1,6 +1,6 @@
 /**
  * A scaled down version of a Product class.
- *aaaaaaaaaaaa
+ *aaaaaaaaaaaaaaaaaaa
  * @author Mairead Meagher, Siobhan Drohan
  */
 public class Product {
